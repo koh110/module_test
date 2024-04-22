@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "type": "module",
+  "name": "typescript_module5",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
