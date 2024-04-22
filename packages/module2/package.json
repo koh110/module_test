@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "name": "module2",
+  "scripts": {
+    "start": "node index.mjs"
+  }
+}

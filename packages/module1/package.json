@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "name": "module1",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

@@ -1,0 +1,1 @@
+exports.cjsbar = 'cjs bar'
